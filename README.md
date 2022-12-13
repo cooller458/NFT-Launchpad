@@ -7,15 +7,11 @@ NFT Launchpad is a NFT Marketplace that allows you to create your own NFTs and s
 
 ## How to use
 
-```bash
+bash
 git clone
 cd nft-launchpad
-```
 npm install
-```
 npm run dev
-```
 localhost:3000
-```
 
 
